@@ -1,5 +1,5 @@
-MARWADI YUVA MANCH NAGPUR — PREMIUM WEBSITE
-Updated with:
+MARWADI YUVA MANCH NAGPUR — FINAL WEBSITE
+Includes natural studio-style corrected photos for:
 - President: Himanshu Ushaji-Jugalkishorji Chandak — 9325131319
 - Secretary: Abhishek Arunji Joshi — 8793030299
 - Treasurer: Raj Omprakashji Agrawal — 9823366747
@@ -7,7 +7,13 @@ Updated with:
 - Sangathan Mantri: Adityaji Girishji Vyas — 9970163768
 - Membership Google Form: https://forms.gle/BqDFrMSARLrrtB8P9
 
-To publish:
-1. Extract ZIP.
-2. Upload index.html + logo.jpg to GitHub Pages or another free static host.
-3. The Call Now and Google Form buttons are already linked.
+Files:
+index.html
+logo.jpg
+abhishek-joshi.jpg
+aditya-vyas.jpg
+hemant-rathi.jpg
+raj-agrawal.jpg
+himanshu-chandak.jpg
+
+All Call Now and Google Form buttons are linked.
