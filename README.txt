@@ -1,8 +1,11 @@
-UPLOAD ALL FILES TO EXISTING GITHUB REPOSITORY:
-index.html
-join.html
-style.css
-script.js
-assets/ (logo.jpg + 5 team photos)
+RAJASTHAN HERITAGE WELCOME UPDATE
 
-The Google Form and phone links are already connected.
+The supplied Rajasthan artwork is now the full-screen cinematic welcome background.
+Includes dark cinematic overlays, royal-gold badge, subtle slow zoom and existing dynamic website.
+
+Upload/replace:
+- index.html
+- style.css
+- assets/rajasthan-welcome.png
+
+Keep all other existing files/assets.
